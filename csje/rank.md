@@ -37,7 +37,6 @@
 | <font color=55FF55>></font> 额外末影箱<br>/endchest | ○ | 1 | 2 | 4 | 6 |<font color=FFAA00>8</font> |
 | <font color=55FF55>></font> 免费进入资源区（下界、末地）<br>/nether<br>/theend | ○ | ○ | ● | ● | ● | <font color=FFAA00>●</font> |
 | -<br><font color=55FF55>**Planet**</font><br>- |   |   |   |  |
-| <font color=55FF55>></font> 免费应急传送卡<br>每月 | ○ | ○ | ○ | 1 | 2 | <font color=FFAA00>4</font> |
 | <font color=55FF55>></font> 免费大陆桥传送<br>每月 | ○ | ○ | 1 | 2 | 4 | <font color=FFAA00>6</font> |
 | 领地数量限制 | 2 | 4 | 8 | 16 | 32 | <font color=FFAA00>64</font> |
 | <font color=55FF55>></font> 区块数量限制/领地 | 9 | 25 | 49 | 81 | 121 |  <font color=FFAA00>169</font> |
