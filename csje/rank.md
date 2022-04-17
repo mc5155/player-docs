@@ -20,7 +20,7 @@
 | -<br><font color=55FF55>**Creative Land**</font><br>- |   |   |   |  |
 | <font color=55FF55>></font> 启用飞行能量模式 | ○ | ○ | ● | ● | ●|  <font color=FFAA00>●</font> |
 | 领地数量限制 | 2 | 4 | 8 | 16 | 32 | <font color=FFAA00>64</font> |
-| <font color=55FF55>></font> 区块数量限制/领地 | 9 | 25 | 49 | 81 | 121 |  <font color=FFAA00>169</font> |
+| <font color=55FF55>></font> 区块数量限制/领地 | 16 | 25 | 49 | 81 | 121 |  <font color=FFAA00>169</font> |
 | 区域数量限制/领地 | ○ | 4 | 6 | 8 | 16 |  <font color=FFAA00>32</font> |
 | 玩家数量限制/领地（/lands trust）| 10 | 20 | 40 | 60 | 80 |  <font color=FFAA00>80</font> |
 | 加入领地数量限制 | 2 | 4 | 6 | 8 | 10 |  <font color=FFAA00>20</font> |
@@ -39,7 +39,7 @@
 | -<br><font color=55FF55>**Planet**</font><br>- |   |   |   |  |
 | <font color=55FF55>></font> 免费大陆桥传送<br>每月 | ○ | ○ | 1 | 2 | 4 | <font color=FFAA00>6</font> |
 | 领地数量限制 | 2 | 4 | 8 | 16 | 32 | <font color=FFAA00>64</font> |
-| <font color=55FF55>></font> 区块数量限制/领地 | 9 | 25 | 49 | 81 | 121 |  <font color=FFAA00>169</font> |
+| <font color=55FF55>></font> 区块数量限制/领地 | 16 | 25 | 49 | 81 | 121 |  <font color=FFAA00>169</font> |
 | 区域数量限制/领地 | ○ | 4 | 6 | 8 | 16 |  <font color=FFAA00>32</font> |
 | 玩家数量限制/领地（/lands trust）| 10 | 20 | 40 | 60 | 80 |  <font color=FFAA00>80</font> |
 | 加入领地数量限制 | 2 | 4 | 6 | 8 | 10 |  <font color=FFAA00>20</font> |
