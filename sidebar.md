@@ -13,7 +13,9 @@
     * [channel频道系统](csje/channel.md)
   - Creative Land
     * [世界架构](csje/worlds_structure.md)
-    * [领地系统](csje/lands.md)
+    * [领地系统](csje/lands-cl.md)
     * [附魔系统](csje/enchant.md)
     * [飞行能量模式](csje/flyc.md)
+  - Planet
+    * [领地系统](csje/lands-pl.md)
   - BlockGames
