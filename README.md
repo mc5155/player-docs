@@ -22,15 +22,15 @@ Discord: [GO>>](https://discord.gg/hDNMZv5)
 
 自动分配
 
-?> `mc.coldplays.net`
+?> mc.coldplays.net
 
 中国大陆加速（CN2-GIA / 国内运营商线路 | No SLA）
 
-?>  `cn-north-1.mc.coldplays.net`
+?>  cn-north-1.mc.coldplays.net
 
 国际线路（国际运营商线路 | 99.9% SLA）
 
-?> `global.mc.coldplays.net`
+?> global.mc.coldplays.net
 
 ### 其他
 
