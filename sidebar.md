@@ -8,6 +8,7 @@
     * [反作弊](mechanism/anticheat.md)
     * [处罚机制](mechanism/punishments.md)
   * [网络故障排除](csje/network-troubleshoot.md)
+  * [数据隐私说明](csje/privacy.md)
   - 通用
     * [指令帮助](csje/commands.md)
     * [关联服务器与论坛帐户](csje/link.md)
