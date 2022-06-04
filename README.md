@@ -26,7 +26,11 @@ Discord: [GO>>](https://discord.gg/hDNMZv5)
 
 中国大陆加速（CN2-GIA / 国内运营商线路 | No SLA）
 
-?>  cn-north-1.mc.coldplays.net
+?> ru-west-1.mc.coldplays.net
+
+中国大陆路由优化（国内运营商线路 | 移动除外 | No SLA）
+
+?> ru-centre-1.mc.coldplays.net
 
 国际线路（国际运营商线路 | 99.9% SLA）
 
