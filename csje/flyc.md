@@ -2,7 +2,7 @@
 
 现在你可以在没有鞘翅的情况下飞行了！
 
-?> 使用该功能需要购买<font color=55FFFF>PREMIUM</font><font color=55FF55>+</font>会员等级
+?> 使用该功能需要服务器等级达到40
 
 ----------
 
@@ -15,8 +15,6 @@
 使用指令`/cmi flightcharge moneycharge <金额>`即可
 
 1 Skycoin = 1 飞行能量
-
-你也可以选择在服务器商店 使用99水晶购买5000飞行能量。
 
 ### 其他
 
