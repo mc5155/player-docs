@@ -41,10 +41,6 @@
 | <font color=55FF55>></font> 跳过普通传送冷却时间 | ○ | ○ | ○ | ● | ● |<font color=FFAA00>●</font> |
 | <font color=55FF55>></font> 额外末影箱<br>/endchest | ○ | 1 | 2 | 4 | 6 | <font color=FFAA00>8</font> |
 | 方块保护限制 | 10 | 20 | 30 | 40 | 50 |  <font color=FFAA00>50</font> |
-| -<br><font color=55FF55>**Block Games**</font><br>- |   |   |   |  |
-| <font color=55FF55>></font> 岛屿中飞行 | ○ | ○ | ● | ● | ● | <font color=FFAA00>●</font> |
-| <font color=55FF55>></font> 额外末影箱<br>/endchest | ○ | 1 | 2 | 4 | 6 |<font color=FFAA00>8</font> |
-| <font color=55FF55>></font> 免费进入资源区（下界、末地）<br>/nether<br>/theend | ○ | ○ | ● | ● | ● | <font color=FFAA00>●</font> |
 | -<br><font color=55FF55>**Planet**</font><br>- |   |   |   |  |
 | <font color=55FF55>></font> 免费大陆桥传送<br>每月 | ○ | ○ | 1 | 2 | 4 | <font color=FFAA00>6</font> |
 | <font color=55FF55>></font> 超视距 | ○ | ○ | ○ | ○ | ○ | <font color=FFAA00>●</font> |
