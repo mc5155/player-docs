@@ -1,4 +1,4 @@
-* [关于我们](cdje/about.md)
+* [关于我们](csje/about.md)
 - 服务器
   * [新手教程](csje/guides.md)
   - 服务器机制
