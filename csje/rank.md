@@ -34,7 +34,6 @@
 | 瞬时最大任务数量 | 4 | 6 | 8 | 10 |12 |  <font color=FFAA00>20</font> |
 | 跳过发言冷却时间 | ○ | ○ | ● | ● | ● | <font color=FFAA00>●</font> |
 | -<br><font color=55FF55>**Creative Land**</font><br>- |   |   |   |  |
-| <font color=55FF55>></font> 启用飞行能量模式 | ○ | ○ | ● | ● | ●|  <font color=FFAA00>●</font> |
 | 领地数量限制 | 2 | 4 | 8 | 16 | 32 | <font color=FFAA00>64</font> |
 | <font color=55FF55>></font> 区块数量限制/领地 | 16 | 25 | 49 | 81 | 121 |  <font color=FFAA00>169</font> |
 | 区域数量限制/领地 | ○ | 4 | 6 | 8 | 16 |  <font color=FFAA00>32</font> |
@@ -43,7 +42,6 @@
 | <font color=55FF55>></font> 使用/cmi workbench 随身工作台 | ○ | ○ | ○ | ○ | ○ | <font color=FFAA00>●</font> |
 | <font color=55FF55>></font> 超视距 | ○ | ○ | ○ | ○ | ○ | <font color=FFAA00>●</font> |
 | <font color=55FF55>></font> 每月免费高级附魔** | ○ | ○ | ○ | ○ | ○ | <font color=FFAA00>●</font> |
-| 创建电梯 | ○ | ● | ● | ● | ● |  <font color=FFAA00>●</font> |
 | <font color=55FF55>></font> 随机传送冷却时间5min | ○ | ○ | ○ | 2min |1min | <font color=FFAA00>0s</font> |
 | <font color=55FF55>></font> 跳过普通传送冷却时间 | ○ | ○ | ○ | ● | ● |<font color=FFAA00>●</font> |
 | <font color=55FF55>></font> 额外末影箱<br>/endchest | ○ | 1 | 2 | 4 | 6 | <font color=FFAA00>8</font> |
@@ -59,7 +57,6 @@
 | 区域数量限制/领地 | ○ | 4 | 6 | 8 | 16 |  <font color=FFAA00>32</font> |
 | 玩家数量限制/领地（/lands trust）| 10 | 20 | 40 | 60 | 80 |  <font color=FFAA00>80</font> |
 | 加入领地数量限制 | 2 | 4 | 6 | 8 | 10 |  <font color=FFAA00>20</font> |
-| 创建电梯 | ○ | ● | ● | ● | ● |  <font color=FFAA00>●</font> |
 | <font color=55FF55>></font> 超视距 | ○ | ○ | ○ | ○ | ○ | <font color=FFAA00>●</font> |
 
 *每在线一个小时额外奖励2个 4★神秘箱 ，每在线一天额外奖励2个5★神秘箱
