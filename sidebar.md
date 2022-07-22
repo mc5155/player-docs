@@ -6,7 +6,6 @@
     * [顶帖奖励](mechanism/bbstoper.md)
     * [等级系统](csje/levels.md)
     * [贡献值](mechanism/contributions.md)
-    * [反作弊](mechanism/anticheat.md)
     * [处罚机制](mechanism/punishments.md)
   * [网络故障排除](csje/network-troubleshoot.md)
   * [数据隐私说明](csje/privacy.md)
