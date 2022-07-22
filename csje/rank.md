@@ -40,8 +40,18 @@
 | <font color=55FF55>></font> 随机传送冷却时间5min | ○ | ○ | ○ | 2min |1min | <font color=FFAA00>0s</font> |
 | <font color=55FF55>></font> 跳过普通传送冷却时间 | ○ | ○ | ○ | ● | ● |<font color=FFAA00>●</font> |
 | <font color=55FF55>></font> 额外末影箱<br>/endchest | ○ | 1 | 2 | 4 | 6 | <font color=FFAA00>8</font> |
+| 领地数量限制 | ○ | ○ | 32 | 40 | 48 | <font color=FFAA00>56</font> |
+| <font color=55FF55>></font> 区块数量限制/领地 | ○ | ○ | 56 | 72 | 88 |  <font color=FFAA00>104</font> |
+| 区域数量限制/领地 | ○ | ○ | 12 | 16 | 18 |  <font color=FFAA00>20</font> |
+| 玩家数量限制/领地（/lands trust）| ○ | ○ | 35 | 40 | 50 |  <font color=FFAA00>60</font> |
+| 加入领地数量限制 | ○ | ○ | 6 | 8 | 10 |  <font color=FFAA00>20</font> |
 | 方块保护限制 | 10 | 20 | 30 | 40 | 50 |  <font color=FFAA00>50</font> |
 | -<br><font color=55FF55>**Planet**</font><br>- |   |   |   |  |
+| 领地数量限制 | ○ | ○ | 32 | 40 | 48 | <font color=FFAA00>56</font> |
+| <font color=55FF55>></font> 区块数量限制/领地 | ○ | ○ | 56 | 72 | 88 |  <font color=FFAA00>104</font> |
+| 区域数量限制/领地 | ○ | ○ | 12 | 16 | 18 |  <font color=FFAA00>20</font> |
+| 玩家数量限制/领地（/lands trust）| ○ | ○ | 35 | 40 | 50 |  <font color=FFAA00>60</font> |
+| 加入领地数量限制 | ○ | ○ | 6 | 8 | 10 |  <font color=FFAA00>20</font> |
 | <font color=55FF55>></font> 免费大陆桥传送<br>每月 | ○ | ○ | 1 | 2 | 4 | <font color=FFAA00>6</font> |
 | <font color=55FF55>></font> 超视距 | ○ | ○ | ○ | ○ | ○ | <font color=FFAA00>●</font> |
 
