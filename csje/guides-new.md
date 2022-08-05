@@ -89,13 +89,13 @@ Discord邀请链接:https://discord.com/invite/hDNMZv5
 
 这里列出了服务器内比较受欢迎的几个子服务器
 
-###### Creative Land
+##### Creative Land
 
 ***困难生存***
 
 拥有高于原版几倍的生物群系数量，和无数贴近现实的自然景观；同时游戏难度也远远高于原版，适合喜欢挑战的玩家前往。
 
-###### Planet
+##### Planet
 
 ***地球/生电/建筑***
 
@@ -103,11 +103,11 @@ Discord邀请链接:https://discord.com/invite/hDNMZv5
 
 于2022.3正式开放的它，还是一个尚待发现的新世界。
 
- 没有tpa，没有死亡不掉落，这里保留着《Minecraft》最纯朴的模样
+没有tpa，没有死亡不掉落，这里保留着《Minecraft》最纯朴的模样。
  
- 从村落到城市，再用铁路线将其相连，共筑一片属于我们的世界，Another **Planet**
+从村落到城市，再用铁路线将其相连，共筑一片属于我们的世界，Another **Planet**
  
- ?> [点此](https://satellite.coldplays.net)访问该服务器卫星地图
+?> [点此](https://satellite.coldplays.net)访问该服务器卫星地图
  
  
 ----------
