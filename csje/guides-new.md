@@ -2,8 +2,8 @@
 
 ?> 最后更改：2022.8.5
 
-Hello，欢迎来到Coldplay Network
-我们将尽可能帮助你快速了解服务器
+Hello，欢迎来到Coldplay Network，<br>
+本文将尽可能帮助你快速了解服务器。
 
 ### 初来乍到
 
