@@ -12,11 +12,12 @@
   * [数据隐私说明](csje/privacy.md)
   - 通用
     * [指令帮助](csje/commands.md)
-    * [关联服务器与论坛帐户](csje/link.md)
-    * [有关会员等级](csje/rank.md)
+    * [经济](csje/economy.md)
+    * [会员等级](csje/rank.md)
     * [重置密码](csje/resetpass.md)
     * [Discord频道——加入与使用](csje/discord.md)
     * [channel频道系统](csje/channel.md)
+    * [关联服务器与论坛帐户](csje/link.md)
   - Creative Land
     * [世界架构](csje/worlds_structure.md)
     * [领地系统](csje/lands-cl.md)
