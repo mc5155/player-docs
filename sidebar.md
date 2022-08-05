@@ -24,4 +24,4 @@
     * [飞行能量模式](csje/flyc.md)
   - Planet
     * [领地系统](csje/lands-pl.md)
-  - BlockGames
+  - Block Games
