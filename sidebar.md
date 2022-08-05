@@ -1,6 +1,6 @@
 * [关于我们](csje/about.md)
 - 服务器
-  * [新手教程](csje/guides.md)
+  * [新手教程](csje/guides-new.md)
   * [服务器一览](csje/servers.md)
   - 服务器机制
     * [点歌系统](mechanism/music.md)
@@ -11,7 +11,6 @@
   * [网络故障排除](csje/network-troubleshoot.md)
   * [数据隐私说明](csje/privacy.md)
   - 通用
-    * [指令帮助](csje/commands.md)
     * [经济](csje/economy.md)
     * [会员等级](csje/rank.md)
     * [重置密码](csje/resetpass.md)
