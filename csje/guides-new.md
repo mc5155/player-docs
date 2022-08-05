@@ -116,5 +116,5 @@ Discord邀请链接:https://discord.com/invite/hDNMZv5
 
 如果觉得服务器还不错的话，可以考虑通过购买服务器虚拟物品来支持服务器的发展。
 
-游戏愉快！
+游戏愉快！<br>
 Coldplay Network
