@@ -23,5 +23,6 @@
     * [附魔系统](csje/enchant.md)
     * [飞行能量模式](csje/flyc.md)
   - Planet
-    * [领地系统](csje/lands-pl.md)
+    * [轨交建设标准](csje/planet/railway-standards.md)
+    * [领地系统](csje/planet/lands-pl.md)
   - Block Games
