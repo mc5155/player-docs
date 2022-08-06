@@ -1,6 +1,6 @@
 # 领地系统
 
-?> 本文章仅适用于Creative Land. 
+> 本文仅适用于Creative Land. 
 
 作为Creative Land的核心玩法，本文详细的介绍了领地系统的使用。
 
