@@ -8,8 +8,6 @@
     * [等级系统](csje/levels.md)
     * [贡献值](mechanism/contributions.md)
     * [处罚机制](mechanism/punishments.md)
-  * [网络故障排除](csje/network-troubleshoot.md)
-  * [数据隐私说明](csje/privacy.md)
   - 通用
     * [经济](csje/economy.md)
     * [会员等级](csje/rank.md)
@@ -26,3 +24,6 @@
     * [轨交建设标准](csje/planet/railway-standards.md)
     * [领地系统](csje/planet/lands-pl.md)
   - Block Games
+  - 其他
+    * [网络故障排除](csje/network-troubleshoot.md)
+    * [数据隐私说明](csje/privacy.md)
