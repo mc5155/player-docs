@@ -94,7 +94,7 @@ Discord邀请链接:https://discord.com/invite/hDNMZv5
 
 了解更多：[该服务器介绍 (Wiki)](https://wiki.coldplays.net/index.php?title=Creative_Land)
 
-!> 该子服务器将在本年内进行世界重置，
+!> 该子服务器将在本年内进行世界与玩法重置，
 
 ##### Planet
 
