@@ -92,19 +92,21 @@ Discord邀请链接:https://discord.com/invite/hDNMZv5
 
 拥有高于原版几倍的生物群系数量，和无数贴近现实的自然景观；同时游戏难度也远远高于原版，适合喜欢挑战的玩家前往。
 
+了解更多：[该服务器介绍 (Wiki)](https://wiki.coldplays.net/index.php?title=Creative_Land)
+
+!> 该子服务器将在本年内进行世界重置，
+
 ##### Planet
 
 ***地球/生电/建筑***
 
 > *一片总面积超过648,000,000m²，虚拟与现实的交织之地*
 
-于2022.3正式开放的它，还是一个尚待发现的新世界。
+采用1:1000比例世界地图，并仅包含大陆桥及联邦传送两种传送方式，**死亡掉落**。
 
-没有tpa，没有死亡不掉落，这里保留着《Minecraft》最纯朴的模样。
- 
-从村落到城市，再用铁路线将其相连，共筑一片属于我们的世界，Another **Planet**
- 
+拥有相较于其他服务器更高的建筑美观性要求，推荐已经游玩《Minecraft》一段时间的玩家前往
 
+了解更多：[该服务器介绍 (Wiki)](https://wiki.coldplays.net/index.php?title=Planet) | [轨交系统 (Wiki)](https://wiki.coldplays.net/index.php?title=Planet%E9%93%81%E8%B7%AF)) 
 
 ?> [点此](https://satellite.coldplays.net)访问该服务器卫星地图
  
