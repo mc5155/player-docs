@@ -106,7 +106,7 @@ Discord邀请链接:https://discord.com/invite/hDNMZv5
 
 拥有相较于其他服务器更高的建筑美观性要求，推荐已经游玩《Minecraft》一段时间的玩家前往
 
-了解更多：[该服务器介绍 (Wiki)](https://wiki.coldplays.net/index.php?title=Planet) | [轨交系统 (Wiki)](https://wiki.coldplays.net/index.php?title=Planet%E9%93%81%E8%B7%AF)) 
+了解更多：[该服务器介绍 (Wiki)](https://wiki.coldplays.net/index.php?title=Planet) | [轨交系统 (Wiki)](https://wiki.coldplays.net/index.php?title=Planet%E9%93%81%E8%B7%AF)
 
 ?> [点此](https://satellite.coldplays.net)访问该服务器卫星地图
  
