@@ -2,6 +2,8 @@
 
 服务器目前共有100级，更高等级可以获得更多的权限与奖励。
 
+![loading](https://docs.coldplays.net/img/server_levels.jpg)
+
 ----------
 
 ## 如何升级
