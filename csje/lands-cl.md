@@ -38,15 +38,17 @@
 只需要使用`/lands`指令打开GUI菜单，即可管理自己拥有，或者有管理权限的领地。
 4. 常用指令
 
-- `/lands edit <领地名>` 选中你拥有管理权的一个领地
-- `/lands unclaim` 从领地中删除所在区块，退款80%
-- `/lands trust` 将玩家邀请入领地中
-- `/lands untrust` 将玩家踢出领地
-- `/lands delete` 删除领地
-- `/lands map` 查看附近区块的领地
 - `/lands balance` 查看领地金库余额
+- `/lands delete` 删除领地
 - `/lands deposit <数量>` 将Skycoin存至领地金库
-- `/lands withdraw <数量>` 从领地金库中提取Skycoin 
+- `/lands edit <领地名>` 选中你拥有管理权的一个领地
+- `/lands invites` 查看收到的邀请
+- `/lands map` 查看附近区块的领地
+- `/lands setspawn` 将你当前所在位置设为领地出生点
+- `/lands trust` 将玩家邀请入领地中
+- `/lands unclaim` 从领地中删除所在区块，退款80%
+- `/lands untrust` 将玩家踢出领地
+- `/lands withdraw <数量>` 从领地金库中提取Skycoin
 
 ### 联邦 (Nation)
 
