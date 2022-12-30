@@ -67,7 +67,8 @@
 - `/nations untrust` 将领地踢出联邦
 - `/nations level` 查看联邦等级进度
 - `/nations setcapital` 更改联邦首都
--  `/nations rename` 重命名联邦
+- `/nations spawn` 传送到联邦首都
+- `/nations rename` 重命名联邦
 
 
 ----------
