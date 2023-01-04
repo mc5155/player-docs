@@ -22,6 +22,7 @@
     * [飞行能量模式](csje/flyc.md)
   - Planet
     * [轨交建设标准](csje/planet/railway-standards.md)
+    * [铁路加速](csje/planet/speedmine.md)
     * [领地系统](csje/planet/lands-pl.md)
   - Block Games
   - 其他
