@@ -7,7 +7,7 @@
 | :-: | :-: | :-: | :-: |  :-: |   :-: |   :-: |
 |  Lobby   |  lxxx   | NA  |   大厅   |  Point | 长期开放  | | 
 |  Creative Land  |  s01x | 1.18.2   |  生存 | Skycoin |  长期开放   |  | 
-|  Planet   |  pl0x   | 1.19.1  |   生存  | Plancash | 长期开放  |  | 
+|  Planet   |  pl0x   | 1.19.2  |   生存  | Plancash | 长期开放  |  | 
 |  Block Games   | s02x   |  1.17.1   |  生存（岛屿）| Skycoin |   关闭  |  | 
 
 
