@@ -26,11 +26,11 @@ Hi, 我们是Coldplay Network
 <br>
 <br>
 <br>
- - [阅读新手指南](https://docs.coldplays.io/#/csje/guides-new)
- - [加入服务器](https://docs.coldplays.io/#/)
+ - [阅读新手指南](https://docs.coldplay.io/#/csje/guides-new)
+ - [加入服务器](https://docs.coldplay.io/#/)
  - QQ群：641358246
- - 服务器官网：[coldplays.io](https://coldplays.io)
- - 了解[数据处理政策](https://docs.coldplays.io/#/csje/privacy)
+ - 服务器官网：[coldplay.io](https://coldplay.io)
+ - 了解[数据处理政策](https://docs.coldplay.io/#/csje/privacy)
 
 
 游戏愉快，
