@@ -1,7 +1,7 @@
 <!-- _navbar.md -->
 
-* [论坛](https://coldplays.net/forums)
-* [Wiki](https://wiki.coldplays.net)
-* [卫星](https://satellite.coldplays.net)
-* [商店](https://store.coldplays.net)
+* [论坛](https://coldplay.io/forums)
+* [Wiki](https://wiki.coldplay.io)
+* [卫星](https://satellite.coldplay.io)
+* [商店](https://store.coldplay.io)
 * [Github](https://github.com/ColdplayNetwork/player-docs)
