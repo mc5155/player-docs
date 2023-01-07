@@ -1,3 +1,9 @@
+# Discord 服务器
+
+*接触更广泛的世界，虽然目前还是没有多少人的世界*
+
+----------
+
 ## 一.加入Discord 
 
 http://discord.gg/hDNMZv5
