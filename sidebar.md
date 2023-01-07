@@ -12,8 +12,8 @@
     * [经济](csje/economy.md)
     * [会员等级](csje/rank.md)
     * [重置密码](csje/resetpass.md)
-    * [Discord频道——加入与使用](csje/discord.md)
-    * [channel频道系统](csje/channel.md)
+    * [Discord服务器](csje/discord.md)
+    * [频道系统](csje/channel.md)
     * [关联服务器与论坛帐户](csje/link.md)
   - Creative Land
     * [世界架构](csje/cl_world_structure.md)
