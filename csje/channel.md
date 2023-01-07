@@ -1,8 +1,12 @@
-我们在[2020.7.19的周更新](https://coldplays.net/threads/weekly-update-7-12-7-19.60/)中添加了频道系统，以满足玩家跨服聊天的需求。
+# 频道系统
+
+----------
+
+我们在[2020.7.19的周更新](https://coldplay.iot/threads/weekly-update-7-12-7-19.60/)中添加了频道系统，以满足玩家跨服聊天的需求。
 
 
 
-在游戏中使用`/channnel join <频道>` 即可加入对应频道，消息仍会在对应的Discord频道（如Skyblock）同步。
+在游戏中使用`/channel join <频道>` 即可加入对应频道，消息仍会在对应的Discord频道同步。
 
 ## Local
 
