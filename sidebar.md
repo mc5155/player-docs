@@ -15,11 +15,6 @@
     * [Discord服务器](csje/discord.md)
     * [频道系统](csje/channel.md)
     * [关联服务器与论坛帐户](csje/link.md)
-  - Creative Land (归档)
-    * [世界架构](csje/cl_world_structure.md)
-    * [领地系统](csje/lands-cl.md)
-    * [附魔系统](csje/enchant.md)
-    * [飞行能量模式](csje/flyc.md)
   - Creative Land II
     * [概览](csje/cl02/introduction.md)
     * [生物群系](csje/cl02/biomes.md)
@@ -35,3 +30,8 @@
   - 其他
     * [网络故障排除](csje/network-troubleshoot.md)
     * [数据隐私说明](csje/privacy.md)
+  - Creative Land (归档)
+    * [世界架构](csje/cl_world_structure.md)
+    * [领地系统](csje/lands-cl.md)
+    * [附魔系统](csje/enchant.md)
+    * [飞行能量模式](csje/flyc.md)  
