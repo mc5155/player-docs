@@ -5,6 +5,9 @@
 ----------
 
 ![帕米尼亚核心区 | 摄于2023/1/18](https://docs.coldplay.io/img/cl02/intro-banner.png)
+
+?> 图为 Creative Land 主城帕米尼亚核心区，摄于2023/1/18
+
 该服务器于2023年1月开启，作为其前身 Creative Land I（以下简称为旧 CL）的重置版本，其继承了旧 CL 大部分特性，并加入了众多新机制。
 
 ## 开始
