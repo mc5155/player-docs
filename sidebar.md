@@ -23,7 +23,7 @@
     * [箱子商店](csje/cl02/chest-store.md)
     * [领地与联邦](csje/cl02/lands-cl.md)
   - Planet
-    * [季节与气候](csje/planet/seasons.md)
+    * [季节与气候（未完成）](csje/planet/seasons.md)
     * [大陆桥](csje/planet/cbridge.md)
     * [轨交建设标准](csje/planet/railway-standards.md)
     * [铁路加速](csje/planet/speedmine.md)
