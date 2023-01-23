@@ -17,8 +17,9 @@
     * [关联服务器与论坛帐户](csje/link.md)
   - Creative Land II
     * [概览](csje/cl02/introduction.md)
-    * [生物群系](csje/cl02/biomes.md)
-    * [自然灾害](csje/cl02/disasters.md)
+    * [生物群系（未完成）](csje/cl02/biomes.md)
+    * [矿物分布](csje/cl02/mineral-distributions.md)
+    * [自然灾害（未完成）](csje/cl02/disasters.md)
     * [箱子商店](csje/cl02/chest-store.md)
     * [领地与联邦](csje/cl02/lands-cl.md)
   - Planet
