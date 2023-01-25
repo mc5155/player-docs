@@ -4,9 +4,9 @@
   * [服务器一览](csje/servers.md)
   - 服务器机制
     * [点歌系统](mechanism/music.md)
-    * [顶帖奖励](mechanism/bbstoper.md)
+    * [顶帖奖励（目前已关闭）](mechanism/bbstoper.md)
     * [服务器等级](csje/levels.md)
-    * [贡献值](mechanism/contributions.md)
+    * [贡献值（未完成）](mechanism/contributions.md)
     * [处罚机制](mechanism/punishments.md)
   - 通用
     * [经济](csje/economy.md)
@@ -32,7 +32,7 @@
   - 其他
     * [网络故障排除](csje/network-troubleshoot.md)
     * [数据隐私说明](csje/privacy.md)
-  - Creative Land (归档)
+  - Creative Land I (归档)
     * [世界架构](csje/cl_world_structure.md)
     * [领地与联邦](csje/lands-cl.md)
     * [附魔系统](csje/enchant.md)
