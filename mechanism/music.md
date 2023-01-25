@@ -8,28 +8,12 @@
 
 ### 依赖项
 
-你需要下载并安装配套MOD并安装才能愉快的听歌
+你需要下载并安装与你客户端版本对应的 Mod 才能愉快的听歌
 
-[1.17.1-Forge版](https://docs.coldplays.net/downloads/[forge-1.17.1]AllMusic-2.5.8.jar)
-
-[1.17.1-Fabric版](https://docs.coldplays.net/downloads/[fabric-1.17.1]AllMusic-2.5.8.jar)
-
-[1.16.x-Forge版](https://docs.coldplays.net/downloads/[forge-1.16.x]AllMusic-2.5.8.jar)
-
-[1.16.x-Fabric版](https://docs.coldplays.net/downloads/[fabric-1.16.x]AllMusic-2.5.8.jar)
+?> 前往 [阿里云盘](https://www.aliyundrive.com/s/fKHnLh1N5nC/folder/628f5a18e108ef84cb934b6ca4301be905f1a653) 下载
 
 
-更多版本请前往[GITHUB页面](https://github.com/HeartAge/AllMusic_M/)下载
-
-
-?> 插件&MOD作者为 Color_yr ，[发布贴](https://www.mcbbs.net/thread-972589-1-1.html)
-
-----------
-
-### 会员等级要求
-
-无！
-是不是很赞（doge
+?> 插件 & Mod 作者为 Color_yr ，[发布贴](https://www.mcbbs.net/thread-972589-1-1.html)
 
 ----------
 
