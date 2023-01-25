@@ -1,6 +1,6 @@
 # 会员等级
 
-购买会员以获得一系列好玩又酷炫的小玩意儿，还能让腐竹有更多的钱来养活服务器w
+购买会员以获得一系列好玩又酷炫的小玩意儿，还能让腐竹有更多的钱来养活服务器
 
 ---------
 
@@ -34,12 +34,7 @@
 | 瞬时最大任务数量 | 4 | 6 | 8 | 10 |12 |  <font color=FFAA00>20</font> |
 | 跳过发言冷却时间 | ○ | ○ | ● | ● | ● | <font color=FFAA00>●</font> |
 | -<br><font color=55FF55>**Creative Land**</font><br>- |   |   |   |  |
-| <font color=55FF55>></font> 使用/cmi workbench 随身工作台 | ○ | ○ | ○ | ○ | ○ | <font color=FFAA00>●</font> |
 | <font color=55FF55>></font> 超视距 | ○ | ○ | ○ | ○ | ○ | <font color=FFAA00>●</font> |
-| <font color=55FF55>></font> 每月免费高级附魔** | ○ | ○ | ○ | ○ | ○ | <font color=FFAA00>●</font> |
-| <font color=55FF55>></font> 随机传送冷却时间5min | ○ | ○ | ○ | 2min |1min | <font color=FFAA00>0s</font> |
-| <font color=55FF55>></font> 跳过普通传送冷却时间 | ○ | ○ | ○ | ● | ● |<font color=FFAA00>●</font> |
-| <font color=55FF55>></font> 额外末影箱<br>/endchest | ○ | 1 | 2 | 4 | 6 | <font color=FFAA00>8</font> |
 | 领地数量限制 | ○ | ○ | 32 | 40 | 48 | <font color=FFAA00>56</font> |
 | <font color=55FF55>></font> 区块数量限制/领地 | ○ | ○ | 56 | 88 | 120 |  <font color=FFAA00>144</font> |
 | 区域数量限制/领地 | ○ | ○ | 12 | 18 | 24 |  <font color=FFAA00>30</font> |
