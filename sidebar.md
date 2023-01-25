@@ -5,7 +5,7 @@
   - 服务器机制
     * [点歌系统](mechanism/music.md)
     * [顶帖奖励（目前已关闭）](mechanism/bbstoper.md)
-    * [服务器等级](csje/levels.md)
+    * [服务器等级](mechanism/level.md)
     * [贡献值（未完成）](mechanism/contributions.md)
     * [处罚机制](mechanism/punishments.md)
   - 通用
